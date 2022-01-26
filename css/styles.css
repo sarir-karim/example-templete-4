@@ -1,0 +1,286 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    font-family:'vollkorn',serif ;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    outline: none;
+    height: 100vh;
+}
+:root{
+    --teal-color:#35e0ec;
+    --secondary-color:#eee;
+    --white-color:#fff;
+    --main-color:#818FA3;
+}
+i{
+    font-size:13px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+    
+
+.bg-light {
+    background-color: white!important
+}
+.head h1{
+    font-size: 25px;
+    color:var(--teal-color) ;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.head p{
+    font-size: 16px;
+    padding-left: 10px;
+    color: #818FA3;
+    display: block;
+}
+
+.btn1{
+    border-radius: 30px;
+    padding: 5px 20px;
+    background: transparent;
+    border: 2px solid #6B7C93;
+    color:#6B7C93 ;
+}
+ .a .nav-link{
+    color: var(--main-color);
+}
+.hr{
+    width: 11rem;
+    height: 2px;
+    position: absolute;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    background-color:var(--teal-color);
+    color: var(--teal-color);
+}
+.hr1{
+    width: 30px;
+    transform: rotate(90deg);
+    color: gray;
+}
+    
+
+/* END HERE */
+.second-nav{
+    width: 60%;
+    margin-left: 3rem;
+}
+.head-nav h1{
+    font-size: 20px;
+}
+
+
+.head-nav .fa-search{
+    font-size: 22px;
+    margin-right: 1rem;
+    color: rgb(128, 123, 123);
+}
+/* end here */
+/* starts Here */
+
+.main-container{
+    margin: 0;
+    padding: 0;
+}
+.main-container .container-fluid{
+    background-color: #F6F9FC;
+    margin-top:15px;
+}
+.breadcrumb{
+    background-color:transparent;
+
+}
+.icon-main{
+    border: 1px solid silver;
+    font-size: 20px;
+    padding: 0px 20px;
+    margin: 5px;
+    padding-top: -2px;
+    color: var(--main-color);
+}
+#icons{
+    font-size: 14px;
+    margin: 3px;
+    margin-bottom: 10px;
+}
+   
+.head-icon h6{
+    font-size: 17px;
+    margin-top: 15px;
+    color: #6B7C93;
+    margin-right: 10px;
+    
+}
+
+
+.full-image{
+    width: 214%;
+    height: 100vh;
+    top: -3.5rem;
+    position: relative;
+    z-index: 1;
+
+  
+}
+
+.hrone{
+    width: 110%;
+    margin-left: -20px;
+    margin-bottom: -2px;
+}
+
+.hrtwo{
+    width: 231%;
+    margin-left: -20px;
+    margin-top: -20px;
+}
+.h1{
+    font-size: 35px;
+    margin-left: 10px;
+    color: #4e4f58;
+    font-weight: bold;
+  
+    
+    
+}
+#span{
+    font-size: 30px;
+    margin-left: 10px;
+    color: #15959A;
+}
+.custom-header h5{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left:3rem;
+    color: #47495A;
+}
+.custom-header i{
+    font-size: 15px;
+    margin-right: 10px;
+
+    color: #47495A;
+}
+.custom-select{
+    padding: 5px 30px;
+    text-align: center;
+}
+.card{
+    margin-left: 20px;
+  
+}
+#sort{
+    color: silver;
+}
+.h6{
+    font-size: 20px;
+    padding-top: 10px;
+    margin-left: 2rem;
+}
+.card{
+    width: 100%;
+}
+.img1 img{
+     margin-left: 1.9rem;
+     height: 15vh;
+}
+.icon-head{
+    margin-left: 1rem;
+}
+   
+.icon-head i{
+    font-size: 12px;
+    color: gold;
+    margin-right: 2px;
+}
+.head-icon h5{
+    font-size: 10px;
+    color: #484A5B;
+}
+.head-icon .h5{
+    font-size: 10px;
+    color: #484A5B;
+   
+}
+span{
+color: #299EA2;
+font-size: 19px;
+}
+#spann{
+    color: var(--main-color);
+    margin-left: 10px;
+    font-size: 12px;
+    
+}
+h6 .span1{
+    font-size: 13px;
+    margin-right: 5px;
+    margin-left: 0;
+}
+ .icon-head h5{
+     font-size: 1   rem;
+     color: #484A5B;
+     font-weight:bold;
+}    
+ .icon-head p{
+     font-size: 10px;
+     margin-left:-10px;
+    margin-bottom:0 ;
+     color: #484A5B;
+}
+.icon-head{
+    margin-left:2rem;
+}
+.ul li{
+    font-size: 12px;
+    list-style: none;
+    margin-left: -50px;
+    color: var(--main-color);
+}
+
+h6{
+    font-size: 13px;
+
+}
+
+.icons-head h6 {
+    font-size: 11px;
+}
+
+.head-hr{
+    width: 80%;
+    position: absolute;
+    top: 6.4rem;
+    left: 7rem;
+}
+.para-button{
+    display: inline-flex;
+}
+.buttonlast{
+    float: right;
+    margin-left: 8rem;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    padding: 3px 12px;
+    text-transform: uppercase;
+    font-size: 12px;
+    outline: none;
+    color:#35e0ec ;
+    border :1px solid #35e0ec;
+    /* border-width: 1px; */
+    background: transparent;
+}
+.lasth6{
+margin-right: 6rem;
+margin-left: 6rem;
+font-size: 12px;
+color: silver;
+}
+
+
+    
